@@ -26,15 +26,13 @@ A simple yet colorful **Tic-Tac-Toe** game implemented in Python using the Tkint
 
 ## 📋 Usage
 
-<!-- TODO: Add github repo link-->
-
 ### 1️⃣ Clone or Download
 
 Download or clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
-cd tic-tac-toe
+git clone https://github.com/Janardan-pathak/Tic-Tac-Toe.git
+cd Tic-Tac-Toe/bin
 ```
 
 ### 2️⃣ Run the Game
